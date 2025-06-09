@@ -14,10 +14,10 @@ Podeis usar el paquete **[XAMMP](https://sourceforge.net/projects/xampp/files/XA
 
 
 ## Cuenta Predeterminada
-**Correo:**
+**Correo:**\
 admin@admin.com
 
-**Contraseña:**
+**Contraseña:**\
 admin
 ## Capturas
 ![Preview_1](https://github.com/user-attachments/assets/488b2151-4d3f-4d40-a584-3f49bdbd4dc9)
